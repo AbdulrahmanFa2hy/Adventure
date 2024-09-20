@@ -39,6 +39,7 @@ button:hover {
 .section-header {
   text-align: center;
   margin: 40px 0;
+  padding: 0 10px;
 }
 
 .section-title {
@@ -338,6 +339,17 @@ header ul li a:hover {
   }
   header ul li a {
     font-size: 12px;
+  }
+  .section-header .section-title {
+    font-size: 25px;
+  }
+  .section-header .home-title {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .section-header .line {
+    margin-bottom: 32px;
   }
   .exploring .section-title {
     font-size: 25px;
